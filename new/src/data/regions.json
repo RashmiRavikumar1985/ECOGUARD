@@ -1,0 +1,1196 @@
+{
+  "Australia": {
+    "Western Australia": {
+      "lat": -25.8483,
+      "lon": 121.646
+    },
+    "Northern Territory": {
+      "lat": -20.1026,
+      "lon": 133.78
+    },
+    "South Australia": {
+      "lat": -29.6504,
+      "lon": 135.783
+    },
+    "Queensland": {
+      "lat": -23.1364,
+      "lon": 144.778
+    },
+    "Tasmania": {
+      "lat": -42.1383,
+      "lon": 146.603
+    },
+    "Victoria": {
+      "lat": -37.0082,
+      "lon": 144.75
+    },
+    "Australian Capital Territory": {
+      "lat": -35.4618,
+      "lon": 148.983
+    },
+    "Jervis Bay Territory": {
+      "lat": -35.1532,
+      "lon": 150.692
+    },
+    "New South Wales": {
+      "lat": -32.4751,
+      "lon": 146.781
+    }
+  },
+  "Brazil": {
+    "Acre": {
+      "lat": -8.9285,
+      "lon": -70.2976
+    },
+    "Rondônia": {
+      "lat": -10.9712,
+      "lon": -63.1439
+    },
+    "Roraima": {
+      "lat": 1.93803,
+      "lon": -61.3325
+    },
+    "Amazonas": {
+      "lat": -4.21774,
+      "lon": -63.7853
+    },
+    "Pará": {
+      "lat": -4.44313,
+      "lon": -52.6491
+    },
+    "Mato Grosso do Sul": {
+      "lat": -20.6756,
+      "lon": -54.5502
+    },
+    "Amapá": {
+      "lat": 1.41157,
+      "lon": -51.6842
+    },
+    "Mato Grosso": {
+      "lat": -13.3926,
+      "lon": -55.9235
+    },
+    "Paraná": {
+      "lat": -24.6618,
+      "lon": -51.3228
+    },
+    "Distrito Federal": {
+      "lat": -15.7665,
+      "lon": -47.7902
+    },
+    "Goiás": {
+      "lat": -15.863,
+      "lon": -49.5786
+    },
+    "Tocantins": {
+      "lat": -10.223,
+      "lon": -48.2502
+    },
+    "São Paulo": {
+      "lat": -22.2267,
+      "lon": -48.5206
+    },
+    "Maranhão": {
+      "lat": -5.01897,
+      "lon": -45.389
+    },
+    "Rio de Janeiro": {
+      "lat": -22.4049,
+      "lon": -43.1152
+    },
+    "Piauí": {
+      "lat": -8.08698,
+      "lon": -43.1974
+    },
+    "Minas Gerais": {
+      "lat": -18.5895,
+      "lon": -44.4808
+    },
+    "Espírito Santo": {
+      "lat": -19.6916,
+      "lon": -40.5436
+    },
+    "Bahia": {
+      "lat": -12.3651,
+      "lon": -41.8027
+    },
+    "Ceará": {
+      "lat": -5.37602,
+      "lon": -39.3429
+    },
+    "Sergipe": {
+      "lat": -10.5918,
+      "lon": -37.3836
+    },
+    "Alagoas": {
+      "lat": -9.77391,
+      "lon": -36.6917
+    },
+    "Rio Grande do Norte": {
+      "lat": -5.66157,
+      "lon": -36.5472
+    },
+    "Pernambuco": {
+      "lat": -8.47283,
+      "lon": -37.2958
+    },
+    "Paraíba": {
+      "lat": -7.34234,
+      "lon": -36.2726
+    },
+    "Santa Catarina": {
+      "lat": -27.0392,
+      "lon": -51.1586
+    },
+    "Rio Grande do Sul": {
+      "lat": -29.7277,
+      "lon": -53.656
+    }
+  },
+  "Canada": {
+    "Alberta": {
+      "lat": 55.2816,
+      "lon": -115
+    },
+    "British Columbia": {
+      "lat": 54.6943,
+      "lon": -124.662
+    },
+    "Manitoba": {
+      "lat": 54.85,
+      "lon": -97.3828
+    },
+    "New Brunswick": {
+      "lat": 46.5822,
+      "lon": -66.4558
+    },
+    "Newfoundland and Labrador": {
+      "lat": 48.6598,
+      "lon": -56.2169
+    },
+    "Nova Scotia": {
+      "lat": 45.2293,
+      "lon": -62.8113
+    },
+    "Northwest Territories": {
+      "lat": 64.0831,
+      "lon": -119.942
+    },
+    "Nunavut": {
+      "lat": 64.3853,
+      "lon": -97.1443
+    },
+    "Ontario": {
+      "lat": 50.5244,
+      "lon": -84.7943
+    },
+    "Prince Edward Island": {
+      "lat": 46.3417,
+      "lon": -63.3862
+    },
+    "Québec": {
+      "lat": 52.2593,
+      "lon": -73.7168
+    },
+    "Saskatchewan": {
+      "lat": 54.4965,
+      "lon": -105.682
+    },
+    "Yukon": {
+      "lat": 63.6088,
+      "lon": -135.7
+    }
+  },
+  "United States of America": {
+    "Alaska": {
+      "lat": 65.3609,
+      "lon": -151.604
+    },
+    "Alabama": {
+      "lat": 32.8551,
+      "lon": -86.7184
+    },
+    "Arkansas": {
+      "lat": 34.7563,
+      "lon": -92.1428
+    },
+    "Arizona": {
+      "lat": 34.3046,
+      "lon": -111.935
+    },
+    "California": {
+      "lat": 36.7496,
+      "lon": -119.591
+    },
+    "Colorado": {
+      "lat": 38.9998,
+      "lon": -105.543
+    },
+    "Connecticut": {
+      "lat": 41.6486,
+      "lon": -72.7594
+    },
+    "District of Columbia": {
+      "lat": 38.8922,
+      "lon": -77.0113
+    },
+    "Delaware": {
+      "lat": 38.8657,
+      "lon": -75.4112
+    },
+    "Florida": {
+      "lat": 28.1568,
+      "lon": -81.6228
+    },
+    "Georgia": {
+      "lat": 32.8547,
+      "lon": -83.4078
+    },
+    "Hawaii": {
+      "lat": 21.4919,
+      "lon": -157.999
+    },
+    "Iowa": {
+      "lat": 42.0423,
+      "lon": -93.3891
+    },
+    "Idaho": {
+      "lat": 43.7825,
+      "lon": -114.133
+    },
+    "Illinois": {
+      "lat": 39.946,
+      "lon": -89.1991
+    },
+    "Indiana": {
+      "lat": 39.8874,
+      "lon": -86.1396
+    },
+    "Kansas": {
+      "lat": 38.5,
+      "lon": -98.3309
+    },
+    "Kentucky": {
+      "lat": 37.3994,
+      "lon": -85.5729
+    },
+    "Louisiana": {
+      "lat": 30.5274,
+      "lon": -91.9991
+    },
+    "Massachusetts": {
+      "lat": 42.3739,
+      "lon": -71.9993
+    },
+    "Maryland": {
+      "lat": 39.3874,
+      "lon": -77.0454
+    },
+    "Maine": {
+      "lat": 45.148,
+      "lon": -69.1973
+    },
+    "Michigan": {
+      "lat": 43.4343,
+      "lon": -84.9479
+    },
+    "Minnesota": {
+      "lat": 46.0592,
+      "lon": -93.364
+    },
+    "Missouri": {
+      "lat": 38.5487,
+      "lon": -92.446
+    },
+    "Mississippi": {
+      "lat": 32.8657,
+      "lon": -89.7189
+    },
+    "Montana": {
+      "lat": 46.9965,
+      "lon": -110.044
+    },
+    "North Carolina": {
+      "lat": 35.6152,
+      "lon": -78.866
+    },
+    "North Dakota": {
+      "lat": 47.4675,
+      "lon": -100.302
+    },
+    "Nebraska": {
+      "lat": 41.5002,
+      "lon": -99.6855
+    },
+    "New Hampshire": {
+      "lat": 43.5993,
+      "lon": -71.6301
+    },
+    "New Jersey": {
+      "lat": 40.0449,
+      "lon": -74.4653
+    },
+    "New Mexico": {
+      "lat": 34.5002,
+      "lon": -106.024
+    },
+    "Nevada": {
+      "lat": 39.4299,
+      "lon": -117.02
+    },
+    "New York": {
+      "lat": 43.1988,
+      "lon": -75.3242
+    },
+    "Ohio": {
+      "lat": 40.0924,
+      "lon": -82.6719
+    },
+    "Oklahoma": {
+      "lat": 35.452,
+      "lon": -97.1309
+    },
+    "Oregon": {
+      "lat": 43.8333,
+      "lon": -120.386
+    },
+    "Pennsylvania": {
+      "lat": 40.8601,
+      "lon": -77.6094
+    },
+    "Rhode Island": {
+      "lat": 41.6242,
+      "lon": -71.5082
+    },
+    "South Carolina": {
+      "lat": 33.8578,
+      "lon": -80.6471
+    },
+    "South Dakota": {
+      "lat": 44.4711,
+      "lon": -100.255
+    },
+    "Tennessee": {
+      "lat": 35.7514,
+      "lon": -86.3415
+    },
+    "Texas": {
+      "lat": 31.131,
+      "lon": -98.7607
+    },
+    "Utah": {
+      "lat": 39.5007,
+      "lon": -111.544
+    },
+    "Virginia": {
+      "lat": 37.7403,
+      "lon": -78.2431
+    },
+    "Vermont": {
+      "lat": 44.0886,
+      "lon": -72.7317
+    },
+    "Washington": {
+      "lat": 47.4865,
+      "lon": -120.361
+    },
+    "Wisconsin": {
+      "lat": 44.3709,
+      "lon": -89.5831
+    },
+    "West Virginia": {
+      "lat": 38.6422,
+      "lon": -80.7128
+    },
+    "Wyoming": {
+      "lat": 42.9999,
+      "lon": -107.552
+    }
+  },
+  "China": {
+    "Gansu": {
+      "lat": 38.7393,
+      "lon": 100.735
+    },
+    "Qinghai": {
+      "lat": 35.2652,
+      "lon": 96.2377
+    },
+    "Guangxi": {
+      "lat": 23.7451,
+      "lon": 108.756
+    },
+    "Guizhou": {
+      "lat": 26.8033,
+      "lon": 106.559
+    },
+    "Chongqing": {
+      "lat": 30.0173,
+      "lon": 107.73
+    },
+    "Beijing": {
+      "lat": 39.9488,
+      "lon": 116.389
+    },
+    "Fujian": {
+      "lat": 26.408,
+      "lon": 118.178
+    },
+    "Anhui": {
+      "lat": 31.9537,
+      "lon": 117.253
+    },
+    "Guangdong": {
+      "lat": 23.7924,
+      "lon": 113.72
+    },
+    "Xizang": {
+      "lat": 31.4515,
+      "lon": 88.4137
+    },
+    "Xinjiang": {
+      "lat": 41.122,
+      "lon": 85.4253
+    },
+    "Hainan": {
+      "lat": 19.1865,
+      "lon": 109.825
+    },
+    "Ningxia": {
+      "lat": 37.1762,
+      "lon": 106.038
+    },
+    "Shaanxi": {
+      "lat": 33.7713,
+      "lon": 108.363
+    },
+    "Shanxi": {
+      "lat": 37.7586,
+      "lon": 112.389
+    },
+    "Hubei": {
+      "lat": 30.9857,
+      "lon": 112.264
+    },
+    "Hunan": {
+      "lat": 27.6667,
+      "lon": 111.712
+    },
+    "Sichuan": {
+      "lat": 30.5431,
+      "lon": 102.384
+    },
+    "Yunnan": {
+      "lat": 24.4603,
+      "lon": 101.661
+    },
+    "Hebei": {
+      "lat": 38.5205,
+      "lon": 115.314
+    },
+    "Henan": {
+      "lat": 33.9055,
+      "lon": 113.484
+    },
+    "Liaoning": {
+      "lat": 41.386,
+      "lon": 123.07
+    },
+    "Shandong": {
+      "lat": 36.3271,
+      "lon": 118.114
+    },
+    "Tianjin": {
+      "lat": 39.3708,
+      "lon": 117.347
+    },
+    "Jiangxi": {
+      "lat": 27.6397,
+      "lon": 116.017
+    },
+    "Jiangsu": {
+      "lat": 32.9844,
+      "lon": 119.942
+    },
+    "Shanghai": {
+      "lat": 31.0909,
+      "lon": 121.409
+    },
+    "Zhejiang": {
+      "lat": 29.1084,
+      "lon": 119.97
+    },
+    "Jilin": {
+      "lat": 43.2978,
+      "lon": 126.466
+    },
+    "Inner Mongol": {
+      "lat": 41.5938,
+      "lon": 111.623
+    },
+    "Heilongjiang": {
+      "lat": 46.8451,
+      "lon": 127.97
+    }
+  },
+  "India": {
+    "Sikkim": {
+      "lat": 27.5709,
+      "lon": 88.4482
+    },
+    "Telangana": {
+      "lat": 17.4273126817,
+      "lon": 78.468441094
+    },
+    "Ladakh": {
+      "lat": 34.0255867581,
+      "lon": 77.4806135651
+    },
+    "Chandigarh": {
+      "lat": 30.7452,
+      "lon": 76.7605
+    },
+    "Delhi": {
+      "lat": 28.69,
+      "lon": 77.0856
+    },
+    "Himachal Pradesh": {
+      "lat": 31.6755,
+      "lon": 77.2875
+    },
+    "Haryana": {
+      "lat": 29.1003,
+      "lon": 76.271
+    },
+    "Jammu and Kashmir": {
+      "lat": 33.9658,
+      "lon": 76.6395
+    },
+    "Andhra Pradesh": {
+      "lat": 16.4854,
+      "lon": 79.208
+    },
+    "Kerala": {
+      "lat": 10.3666,
+      "lon": 76.5237
+    },
+    "Lakshadweep": {
+      "lat": 11.2249,
+      "lon": 72.7811
+    },
+    "Odisha": {
+      "lat": 20.625,
+      "lon": 84.4341
+    },
+    "Dadra and Nagar Haveli and Daman and Diu": {
+      "lat": 20.1841,
+      "lon": 73.029
+    },
+    "Karnataka": {
+      "lat": 14.3681,
+      "lon": 75.667
+    },
+    "Goa": {
+      "lat": 15.3133,
+      "lon": 73.9951
+    },
+    "Andaman and Nicobar": {
+      "lat": 6.83654,
+      "lon": 93.7895
+    },
+    "Assam": {
+      "lat": 26.3302,
+      "lon": 92.9929
+    },
+    "Manipur": {
+      "lat": 24.7442,
+      "lon": 93.8457
+    },
+    "Nagaland": {
+      "lat": 26.1094,
+      "lon": 94.5664
+    },
+    "Meghalaya": {
+      "lat": 25.4804,
+      "lon": 91.3031
+    },
+    "Punjab": {
+      "lat": 31.0245,
+      "lon": 75.3762
+    },
+    "Rajasthan": {
+      "lat": 26.7468,
+      "lon": 73.8556
+    },
+    "Uttar Pradesh": {
+      "lat": 26.7201,
+      "lon": 80.9966
+    },
+    "Uttarakhand": {
+      "lat": 30.0576,
+      "lon": 79.2841
+    },
+    "Jharkhand": {
+      "lat": 23.5221,
+      "lon": 85.0584
+    },
+    "West Bengal": {
+      "lat": 23.0523,
+      "lon": 87.7289
+    },
+    "Bihar": {
+      "lat": 25.6853,
+      "lon": 85.8134
+    },
+    "Chhattisgarh": {
+      "lat": 21.8044,
+      "lon": 82.3069
+    },
+    "Madhya Pradesh": {
+      "lat": 22.9404,
+      "lon": 78.4214
+    },
+    "Puducherry": {
+      "lat": 10.9224,
+      "lon": 79.7758
+    },
+    "Tamil Nadu": {
+      "lat": 11.0159,
+      "lon": 78.2704
+    },
+    "Gujarat": {
+      "lat": 22.7501,
+      "lon": 71.3013
+    },
+    "Arunachal Pradesh": {
+      "lat": 28.4056,
+      "lon": 94.4673
+    },
+    "Mizoram": {
+      "lat": 23.2037,
+      "lon": 92.8409
+    },
+    "Tripura": {
+      "lat": 23.8519,
+      "lon": 91.7031
+    },
+    "Maharashtra": {
+      "lat": 19.4723,
+      "lon": 75.4647
+    }
+  },
+  "Indonesia": {
+    "Aceh": {
+      "lat": 4.41533,
+      "lon": 96.9956
+    },
+    "Kalimantan Timur": {
+      "lat": 1.28915,
+      "lon": 116.354
+    },
+    "Jawa Barat": {
+      "lat": -6.90763,
+      "lon": 107.638
+    },
+    "Jawa Tengah": {
+      "lat": -7.2901,
+      "lon": 109.896
+    },
+    "Bengkulu": {
+      "lat": -3.48606,
+      "lon": 102.368
+    },
+    "Banten": {
+      "lat": -6.25794,
+      "lon": 106.167
+    },
+    "Jakarta Raya": {
+      "lat": -6.22462,
+      "lon": 106.837
+    },
+    "Kalimantan Barat": {
+      "lat": -0.0636474,
+      "lon": 111.304
+    },
+    "Lampung": {
+      "lat": -4.919,
+      "lon": 105.059
+    },
+    "Sumatera Selatan": {
+      "lat": -3.3824,
+      "lon": 104.073
+    },
+    "Bangka-Belitung": {
+      "lat": -2.95817,
+      "lon": 106.819
+    },
+    "Bali": {
+      "lat": -8.3412,
+      "lon": 115.179
+    },
+    "Jawa Timur": {
+      "lat": -7.88129,
+      "lon": 112.616
+    },
+    "Kalimantan Selatan": {
+      "lat": -3.00713,
+      "lon": 115.451
+    },
+    "Nusa Tenggara Timur": {
+      "lat": -8.58443,
+      "lon": 120.689
+    },
+    "Sulawesi Selatan": {
+      "lat": -3.7444,
+      "lon": 119.99
+    },
+    "Sulawesi Barat": {
+      "lat": -2.69615,
+      "lon": 119.316
+    },
+    "Kepulauan Riau": {
+      "lat": -0.142639,
+      "lon": 104.601
+    },
+    "Gorontalo": {
+      "lat": 0.760501,
+      "lon": 122.331
+    },
+    "Jambi": {
+      "lat": -1.65497,
+      "lon": 102.823
+    },
+    "Kalimantan Tengah": {
+      "lat": -1.84217,
+      "lon": 113.286
+    },
+    "Papua Barat": {
+      "lat": -1.32525,
+      "lon": 132.825
+    },
+    "Sumatera Utara": {
+      "lat": 2.36304,
+      "lon": 99.2161
+    },
+    "Riau": {
+      "lat": 0.396892,
+      "lon": 101.745
+    },
+    "Sulawesi Utara": {
+      "lat": 0.853039,
+      "lon": 124.446
+    },
+    "Maluku Utara": {
+      "lat": -2.28945,
+      "lon": 125.976
+    },
+    "Sumatera Barat": {
+      "lat": -0.642611,
+      "lon": 100.611
+    },
+    "Yogyakarta": {
+      "lat": -7.83533,
+      "lon": 110.443
+    },
+    "Maluku": {
+      "lat": -8.24814,
+      "lon": 128.161
+    },
+    "Nusa Tenggara Barat": {
+      "lat": -8.57106,
+      "lon": 116.294
+    },
+    "Sulawesi Tenggara": {
+      "lat": -4.0746,
+      "lon": 122.119
+    },
+    "Sulawesi Tengah": {
+      "lat": -1.30097,
+      "lon": 120.153
+    },
+    "Papua": {
+      "lat": -4.10825,
+      "lon": 138.689
+    }
+  },
+  "Russia": {
+    "Tomsk": {
+      "lat": 58.4467,
+      "lon": 82.2299
+    },
+    "Adygey": {
+      "lat": 44.4658,
+      "lon": 40.1293
+    },
+    "Karachay-Cherkess": {
+      "lat": 43.7073,
+      "lon": 41.6866
+    },
+    "Ingush": {
+      "lat": 43.3661,
+      "lon": 44.8468
+    },
+    "Kabardin-Balkar": {
+      "lat": 43.3757,
+      "lon": 43.3982
+    },
+    "North Ossetia": {
+      "lat": 42.9969,
+      "lon": 44.1653
+    },
+    "Stavropol'": {
+      "lat": 44.981,
+      "lon": 43.2791
+    },
+    "Chukchi Autonomous Okrug": {
+      "lat": 66.7517,
+      "lon": 170.516
+    },
+    "Kaliningrad": {
+      "lat": 54.6636,
+      "lon": 21.2287
+    },
+    "Murmansk": {
+      "lat": 67.9609,
+      "lon": 34.3212
+    },
+    "Novgorod": {
+      "lat": 58.4228,
+      "lon": 32.9454
+    },
+    "Pskov": {
+      "lat": 57.2449,
+      "lon": 29.1229
+    },
+    "Leningrad": {
+      "lat": 59.9905,
+      "lon": 32.7736
+    },
+    "City of St. Petersburg": {
+      "lat": 59.8064,
+      "lon": 30.2901
+    },
+    "Bryansk": {
+      "lat": 53.0868,
+      "lon": 33.2803
+    },
+    "Smolensk": {
+      "lat": 54.6726,
+      "lon": 33.0803
+    },
+    "Karelia": {
+      "lat": 63.5295,
+      "lon": 33.1446
+    },
+    "Arkhangel'sk": {
+      "lat": 63.3132,
+      "lon": 41.9939
+    },
+    "Ivanovo": {
+      "lat": 57.1213,
+      "lon": 41.6244
+    },
+    "Vologda": {
+      "lat": 59.6397,
+      "lon": 40.9333
+    },
+    "Kostroma": {
+      "lat": 58.3882,
+      "lon": 43.4689
+    },
+    "Nizhegorod": {
+      "lat": 56.1384,
+      "lon": 44.7751
+    },
+    "Tver'": {
+      "lat": 57.0297,
+      "lon": 34.5445
+    },
+    "Yaroslavl'": {
+      "lat": 57.7329,
+      "lon": 39.2547
+    },
+    "Kaluga": {
+      "lat": 54.2421,
+      "lon": 35.3416
+    },
+    "Kursk": {
+      "lat": 51.7358,
+      "lon": 36.2921
+    },
+    "Lipetsk": {
+      "lat": 52.7462,
+      "lon": 39.2073
+    },
+    "Moskovskaya": {
+      "lat": 55.1508,
+      "lon": 38.671
+    },
+    "Moskva": {
+      "lat": 55.7177,
+      "lon": 37.6188
+    },
+    "Orel": {
+      "lat": 52.8778,
+      "lon": 36.4166
+    },
+    "Rostov": {
+      "lat": 47.9913,
+      "lon": 41.2613
+    },
+    "Tula": {
+      "lat": 54.0668,
+      "lon": 37.4161
+    },
+    "Volgograd": {
+      "lat": 49.5014,
+      "lon": 44.4488
+    },
+    "Belgorod": {
+      "lat": 50.8757,
+      "lon": 37.277
+    },
+    "Krasnodar": {
+      "lat": 45.8397,
+      "lon": 39.4688
+    },
+    "Mordovia": {
+      "lat": 54.1154,
+      "lon": 44.4631
+    },
+    "Penza": {
+      "lat": 53.0562,
+      "lon": 44.8159
+    },
+    "Ryazan'": {
+      "lat": 54.3363,
+      "lon": 40.6258
+    },
+    "Tambov": {
+      "lat": 52.7808,
+      "lon": 41.5945
+    },
+    "Vladimir": {
+      "lat": 55.8966,
+      "lon": 40.6207
+    },
+    "Voronezh": {
+      "lat": 50.7774,
+      "lon": 40.5223
+    },
+    "Bashkortostan": {
+      "lat": 54.2086,
+      "lon": 56.5575
+    },
+    "Chelyabinsk": {
+      "lat": 54.1131,
+      "lon": 60.2383
+    },
+    "Kurgan": {
+      "lat": 55.4316,
+      "lon": 65.3505
+    },
+    "Nenets": {
+      "lat": 67.8271,
+      "lon": 56.2877
+    },
+    "Yamal-Nenets": {
+      "lat": 65.4117,
+      "lon": 75.1874
+    },
+    "Komi": {
+      "lat": 64.1194,
+      "lon": 55.8183
+    },
+    "Kirov": {
+      "lat": 58.1926,
+      "lon": 50.1112
+    },
+    "Mariy-El": {
+      "lat": 56.5407,
+      "lon": 47.9131
+    },
+    "Sverdlovsk": {
+      "lat": 58.8952,
+      "lon": 61.7078
+    },
+    "Udmurt": {
+      "lat": 57.3433,
+      "lon": 52.7957
+    },
+    "Astrakhan'": {
+      "lat": 47.0334,
+      "lon": 47.7227
+    },
+    "Chuvash": {
+      "lat": 55.4883,
+      "lon": 47.1662
+    },
+    "Kalmyk": {
+      "lat": 46.5191,
+      "lon": 45.4681
+    },
+    "Samara": {
+      "lat": 53.1783,
+      "lon": 50.4377
+    },
+    "Orenburg": {
+      "lat": 51.5157,
+      "lon": 56.2149
+    },
+    "Saratov": {
+      "lat": 51.6742,
+      "lon": 46.6368
+    },
+    "Tatarstan": {
+      "lat": 55.374,
+      "lon": 50.7364
+    },
+    "Ul'yanovsk": {
+      "lat": 53.9248,
+      "lon": 47.3773
+    },
+    "Khanty-Mansiy": {
+      "lat": 61.4315,
+      "lon": 71.3806
+    },
+    "Omsk": {
+      "lat": 56.0471,
+      "lon": 73.3995
+    },
+    "Tyumen'": {
+      "lat": 57.2639,
+      "lon": 68.5186
+    },
+    "Altay": {
+      "lat": 52.4268,
+      "lon": 82.8667
+    },
+    "Gorno-Altay": {
+      "lat": 50.9782,
+      "lon": 86.937
+    },
+    "Kemerovo": {
+      "lat": 54.6462,
+      "lon": 87.1676
+    },
+    "Khakass": {
+      "lat": 53.3643,
+      "lon": 89.8405
+    },
+    "Novosibirsk": {
+      "lat": 55.3139,
+      "lon": 80.0832
+    },
+    "Chechnya": {
+      "lat": 43.2153,
+      "lon": 45.757
+    },
+    "Dagestan": {
+      "lat": 42.36,
+      "lon": 47.1424
+    },
+    "Irkutsk": {
+      "lat": 56.8255,
+      "lon": 105.966
+    },
+    "Krasnoyarsk": {
+      "lat": 65.5602,
+      "lon": 95.2029
+    },
+    "Tuva": {
+      "lat": 51.6051,
+      "lon": 93.9927
+    },
+    "Buryat": {
+      "lat": 52.9061,
+      "lon": 109.341
+    },
+    "Amur": {
+      "lat": 52.9236,
+      "lon": 128.354
+    },
+    "Chita": {
+      "lat": 52.159,
+      "lon": 116.559
+    },
+    "Primor'ye": {
+      "lat": 44.8622,
+      "lon": 134.594
+    },
+    "Sakha (Yakutia)": {
+      "lat": 65.5964,
+      "lon": 130.989
+    },
+    "Yevrey": {
+      "lat": 48.64,
+      "lon": 132.758
+    },
+    "Khabarovsk": {
+      "lat": 57.0232,
+      "lon": 135.443
+    },
+    "Maga Buryatdan": {
+      "lat": 62.6257,
+      "lon": 153.797
+    },
+    "Sakhalin": {
+      "lat": 47.3479,
+      "lon": 152.467
+    },
+    "Crimea": {
+      "lat": 45.3115,
+      "lon": 34.2784
+    },
+    "Perm'": {
+      "lat": 58.8735,
+      "lon": 56.5878
+    },
+    "Kamchatka": {
+      "lat": 56.5325,
+      "lon": 160.187
+    },
+    "Sevastopol": {
+      "lat": 44.5182,
+      "lon": 33.6396
+    }
+  },
+  "South Africa": {
+    "Northern Cape": {
+      "lat": -29.7437,
+      "lon": 20.9961
+    },
+    "Western Cape": {
+      "lat": -33.5035,
+      "lon": 20.9745
+    },
+    "North West": {
+      "lat": -26.3999,
+      "lon": 25.7403
+    },
+    "Free State": {
+      "lat": -28.5815,
+      "lon": 26.4914
+    },
+    "Gauteng": {
+      "lat": -26.1682,
+      "lon": 28.2074
+    },
+    "Mpumalanga": {
+      "lat": -25.9893,
+      "lon": 30.1421
+    },
+    "Limpopo": {
+      "lat": -23.5859,
+      "lon": 29.1301
+    },
+    "KwaZulu-Natal": {
+      "lat": -28.7468,
+      "lon": 30.8231
+    },
+    "Eastern Cape": {
+      "lat": -32.0622,
+      "lon": 26.6417
+    }
+  }
+}
